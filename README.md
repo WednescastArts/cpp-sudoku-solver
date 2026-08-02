@@ -3,7 +3,7 @@
 
 This is my <u>experimental</u> sudoku solver project written in **C++**.
 
-Created on **Linux Ubuntu Desktop** in <u>Raspberry Pi 5</u> *(w/ GNU GCC/g++)*
+Developed on **Linux Ubuntu Desktop** running on <u>Raspberry Pi 5</u> *(w/ GNU GCC/g++)*
 
 Also **works on Windows**. *(checked w/ Bloodshed <u>Dev-C++</u> IDE)*
 
@@ -47,7 +47,7 @@ How to use it?
   
 2. Choose solving method: recursive or iterative.
   
-3. **Profit!**
+3. ??? -> **Profit!**
   
 
 ---
