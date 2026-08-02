@@ -1,6 +1,5 @@
-#  Sudoku Solver C++ project
+# Sudoku Solver C++ project
 
----
 
 This is my <u>experimental</u> sudoku solver project written in **C++**.
 
