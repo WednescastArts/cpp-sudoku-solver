@@ -1,4 +1,4 @@
-# Sudoku Solver C++ project
+#  Sudoku Solver C++ project
 
 ---
 
