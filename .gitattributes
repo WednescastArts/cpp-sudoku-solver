@@ -2,3 +2,4 @@
 * text=auto
 
 java-version/** linguist-detectable=false
+kotlin-version/** linguist-detectable=false
