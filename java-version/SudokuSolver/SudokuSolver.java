@@ -108,7 +108,7 @@ public class SudokuSolver
 						System.out.print("|");
 					System.out.print(this.table[i][j]);
 				}
-				System.out.println();;
+				System.out.println();
 			}
 		}
 		
